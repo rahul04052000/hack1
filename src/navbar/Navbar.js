@@ -11,7 +11,13 @@ export default function navbar() {
                 By AXISCADES-MISTRAL
             </div>
 
-            
+            <div className="present">
+                Presented By
+            </div>
+
+            <div className="name">
+                MAGMA
+            </div>
 
         </div>
     )
