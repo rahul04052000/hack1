@@ -6,7 +6,7 @@ export default function navbar() {
     return (
 
         <div className="main">
-            <video id="myVideo" src={videoBG} autoPlay loop muted />
+            <video id="myVideo" src={videoBG} pause muted />
 
             <div className="heading">
                 <div className="main">

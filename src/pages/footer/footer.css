@@ -1,0 +1,12 @@
+
+.foot{
+    height: 100px;
+    background: rgb(3, 75, 103);
+}
+
+.fText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
