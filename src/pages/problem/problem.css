@@ -1,8 +1,9 @@
-.contact{
+.problem{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 0px;
+    gap: 100px;
+    /* justify-content: space-around; */
     align-items: center;
     background: black;
     color: white;
@@ -11,19 +12,10 @@
     height: 85vh;
 }
 
-.contact .teamHeading{
-    padding-top: 0px;
-    font-weight: bolder;
-    font-size: 60px;
-}
-
-.contact div{
-    height: fit-content;
-    width: fit-content;
-    padding-bottom  : 30px;
-}
-
-.contact p{
+.problem h2{
+    margin: 0px;
+    padding: 0px;
+    /* background: red; */
     height: fit-content;
     width: fit-content;
 }

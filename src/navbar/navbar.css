@@ -9,6 +9,7 @@
     /* height: 650px; */
     height: 100%;
     width: 100%;
+    background: black;
 }
 
 video{
@@ -34,7 +35,7 @@ video{
     color: white;
 }
 
-.heading > .main{
+.heading > .mainHeading{
     font-size: 80px;
     font-weight: 600;
     color: white;

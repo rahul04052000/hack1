@@ -10,3 +10,8 @@
     align-items: center;
     color: white;
 }
+
+.foot button{
+    position: absolute;
+    height: 50px;
+}
